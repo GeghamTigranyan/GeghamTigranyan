@@ -1,5 +1,16 @@
-# 💫 About Me:
-.
+I’m a 3rd-year student at the Polytechnic University, majoring in Applied Mathematics and Informatics.
+Passionate about algorithms, programming, and data analysis, I enjoy applying mathematical thinking to solve real-world problems.
+Currently exploring projects in Python, data science, and software development.
+
+Interests
+
+.Algorithms & Data Structures
+
+.Machine Learning & Data Analysis
+
+.Mathematical Modeling
+
+.Software Development
 
 
 # 💻 Tech Stack:
